@@ -1,0 +1,3 @@
+The script processes a text file to extract words by removing punctuation.
+It calculates the longest word, shortest word, average word length, and number of unique words.
+Commands like tr, awk, sort, uniq, and wc are used through piping.
