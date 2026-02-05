@@ -1,0 +1,4 @@
+The script reads email addresses from an input file line by line.
+It uses grep pattern matching to validate email formats.
+Valid and invalid emails are stored in separate files.
+Duplicate valid email entries are removed using sort and uniq.
