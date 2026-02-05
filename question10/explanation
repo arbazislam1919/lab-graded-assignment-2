@@ -1,0 +1,4 @@
+The program demonstrates signal handling using SIGINT.
+A custom signal handler is registered using the signal() function.
+When Ctrl+C is pressed, the custom message is displayed.
+The default signal behavior is restored to allow program termination on the next signal.
