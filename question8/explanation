@@ -1,0 +1,4 @@
+The script runs multiple commands in the background using the '&' operator.
+Process IDs of background jobs are stored and displayed.
+The jobs and ps commands are used to monitor running processes.
+The wait command ensures the script waits until all background processes complete.
