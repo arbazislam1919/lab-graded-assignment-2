@@ -1,1 +1,4 @@
-
+The provided script accepts exactly one command-line argument and checks whether it is a file or a directory.
+If the argument is a file, it uses the wc command to count lines, words, and characters.
+If the argument is a directory, it uses the find command to count total files and .txt files.
+Proper error messages are displayed for invalid inputs.
