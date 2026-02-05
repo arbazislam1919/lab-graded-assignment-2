@@ -1,0 +1,3 @@
+The C program creates a child process using fork().
+The parent process waits for the child process to terminate using wait().
+This prevents the creation of a zombie process by properly cleaning up the child process.
