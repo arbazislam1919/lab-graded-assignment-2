@@ -1,0 +1,4 @@
+The script reads student records from a file using a while loop.
+It checks marks for each subject using conditional statements and counts failed subjects.
+Students who failed in exactly one subject and those who passed all subjects are identified.
+Counters are used to display summary statistics.
