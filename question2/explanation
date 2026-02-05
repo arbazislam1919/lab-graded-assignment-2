@@ -1,0 +1,4 @@
+The script accepts a log file as input and checks if the file exists and if it is readable.
+It counts total log entries and the number of INFO, WARNING, and ERROR messages using grep and wc.
+The most recent ERROR entry is extracted using tail.
+A summary report file with the current date is generated.
