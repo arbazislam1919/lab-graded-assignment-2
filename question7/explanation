@@ -1,0 +1,3 @@
+The script reads words from an input file and converts them to lowercase.
+Using grep, words are classified as vowel-only, consonant-only, or mixed patterns.
+Each category of words is written into a separate output file.
