@@ -1,0 +1,3 @@
+The script compares two directories to identify the differences.
+It lists files that exist only in one directory using ls and grep.
+Files with the same name but different contents are detected using the cmp command.
